@@ -6,8 +6,8 @@ Prerequisites:
 Instruction:
 * clone or download the contents of this repository
 * solve the challenges
-* in case you do not have a GitHub account, create a .zip archive of your code 
-* send an email at application@nanolabs.ro with the repository link (or the .zip archive as an attachment) 
+* create a .zip archive of your code
+* send an email at office@nanolabs.ro with the .zip archive as an attachment
 
 The purpose of this challenge is to check both the candidate's C/C++ knowledge as well as basic algorithmic skills. Inside this repository you will find 3 problem statements.
 
