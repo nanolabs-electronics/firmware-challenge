@@ -6,7 +6,6 @@ Prerequisites:
 Instruction:
 * clone or download the contents of this repository
 * solve the challenges
-* upload your code to your own GitHub (preferred way)
 * in case you do not have a GitHub account, create a .zip archive of your code 
 * send an email at application@nanolabs.ro with the repository link (or the .zip archive as an attachment) 
 
